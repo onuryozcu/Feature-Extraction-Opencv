@@ -1,7 +1,7 @@
 # opencv_project
 
 <p align="center">
-    <img width="400" src="img/level.gif" alt="Material Bread logo">
+    <img width="40" src="gif/cat.gif" alt="Material Bread logo">
 </p>
 
 <br>
