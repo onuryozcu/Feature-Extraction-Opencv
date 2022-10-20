@@ -1,6 +1,6 @@
 # opencv_project
 
-- 🚀 Love Opencv 😊
+- 🚀 Real time object classification using feature extraction Opencv 😊
 
 <br>
 <br>
