@@ -1,5 +1,6 @@
 # opencv_project
 
+- 🚀 Thanks [Onur YOZCU](https://github.com/onuryozcu)  😊
 
 <br>
 <br>
