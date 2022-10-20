@@ -1,6 +1,6 @@
 # opencv_project
 
-- 🚀 Thanks 😊
+- 🚀 Love Opencv 😊
 
 <br>
 <br>
