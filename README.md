@@ -6,7 +6,7 @@
 <br>
 <br>
 <p align="center">
-    <img width="200" src="gif/cat.gif" alt="Feature Extraction">
+    <img width="1200" src="gif/cat.gif" alt="Feature Extraction">
 </p>
 
 <br>
