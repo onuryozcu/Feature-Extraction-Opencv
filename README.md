@@ -1,12 +1,9 @@
 # opencv_project
 
-![alt text](gif/cat.gif?raw=true)
+<p align="center">
+    <img width="400" src="img/level.gif" alt="Material Bread logo">
+</p>
 
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
