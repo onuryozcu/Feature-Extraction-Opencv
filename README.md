@@ -3,16 +3,11 @@
 
 <br>
 <br>
-<br>
-<br>
 <p align="center">
     <img width="1200" src="gif/cat.gif" alt="Feature Extraction">
 </p>
 
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
