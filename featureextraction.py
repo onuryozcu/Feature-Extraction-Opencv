@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import os
 
-
+import numpy as np
 
 
 path = '{please input your path}'
